@@ -1,6 +1,6 @@
 /Resources
 *.csv
-
+/Notebooks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
